@@ -1,13 +1,19 @@
 {
   "name": "pure-svg",
-  "description": "A clean template for my components",
+  "description": "An easy way to add inline SVGs",
   "version": "1.0.0",
   "author": {
     "name": "David Aganov",
     "email": "davidaganov21@gmail.com"
   },
   "license": "MIT",
-  "keywords": ["vue", "nuxt", "svg", "component", "module"],
+  "keywords": [
+    "vue",
+    "nuxt",
+    "module",
+    "svg",
+    "component"
+  ],
   "private": false,
   "repository": "https://github.com/davidaganov21/pure-svg",
   "bugs": "https://github.com/davidaganov21/pure-svg/issues",

@@ -3,7 +3,7 @@
 ## Examples
 
 - [GitHub](https://github.com/davidaganov21/pure-svg)
-- [CodeSandbox](https://codesandbox.io/s/pure-svg-pt3mfs)
+- [Demo](https://aganov.dev/pure-svg)
 
 ## Install
 

@@ -7,8 +7,10 @@
     :viewBox="box"
     role="presentation"
   >
-
-    <title v-if="name" lang="en">
+    <title
+      v-if="name"
+      lang="en"
+    >
       {{ name }}
     </title>
 
@@ -16,9 +18,8 @@
       :fill="stroke === false ? color : 'none'"
       :stroke="stroke ? color : 'none'"
     >
-      <slot/>
+      <slot />
     </g>
-
   </svg>
 </template>
 
@@ -34,5 +35,5 @@ export default {
     box: { type: String, default: "0 0 18 18" },
     rotate: { type: Number, default: NaN }
   }
-};
+}
 </script>

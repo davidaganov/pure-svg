@@ -2,7 +2,7 @@
 
 ## Examples
 
-- [GitHub](https://github.com/davidaganov21/pure-svg)
+- [GitHub](https://github.com/davidaganov/pure-svg)
 - [Demo](https://aganov.dev/pure-svg)
 
 ## Install
@@ -10,7 +10,7 @@
 #### NPM / Yarn
 
 ```
-git clone https://github.com/davidaganov21/pure-svg
+git clone https://github.com/davidaganov/pure-svg
 cd pure-svg
 npm install
 ```
@@ -45,4 +45,4 @@ Simply use it like so:
 
 ## Credits
 
-Author: [David Aganov](https://github.com/davidaganov21)
+Author: [David Aganov](https://github.com/davidaganov)
